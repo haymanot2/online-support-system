@@ -1,0 +1,50 @@
+
+  .eleven {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .eleven p {
+    margin: 0;
+  }
+  
+  .ten {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 500px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  p{
+    color: #4a5759;
+    font-weight: bold;
+    font-size: x-large;
+  }
+  .ten strong {
+    font-weight: bold;
+  }
+  
+  .ten span {
+    margin-left: 10px;
+  }
+
+  .detail-text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .twelve {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .twelve:hover {
+    background-color: #4caf50;
+  }

@@ -1,0 +1,48 @@
+.update{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px; 
+    align-items: center;
+}
+.updatebutton {
+    display: inline-block;
+   margin-top: 20px;
+   margin-left: 10px;
+    width: 500px;
+    height: 40px;
+    background-color:#4caf50;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 3px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  
+  .updatebutton:hover {
+    background-color: #4caf50;
+  }
+  
+  .updatebutton:active {
+    background-color: #4caf50;
+  }
+
+  .ticketDetail{
+    width: 400px;
+    
+  }
+
+  .respond-update{
+    width: 380px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .update-input {
+    width: 500px;
+  }
